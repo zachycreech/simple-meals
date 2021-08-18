@@ -11,3 +11,17 @@
     padding-left: 6px;
     
 }
+.border {
+    border-width: 10px;
+    padding: 10px;
+    background: red;
+  }
+  .border2 {
+    border-width: 10px;
+    padding: 10px;
+    background:blue;
+  }
+  .navbar-collapse {
+      justify-content:right;
+      align-items: flex-end;
+  }
