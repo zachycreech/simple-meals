@@ -1,30 +1,32 @@
-.btn-space{
-    margin-right: 15px;
+.btn-space {
+  margin-right: 15px;
 }
 
-.circle{
-    border-radius: 50%;
-    border: 3px;
-    width: 135px;
-    color: black;
-    border-style:solid;
-    padding-left: 6px;
-    
+.circle {
+  border-radius: 50%;
+  border: 3px;
+  width: 135px;
+  color: black;
+  border-style: solid;
+  padding-left: 6px;
 }
 .border {
-    border-width: 10px;
-    padding: 10px;
-    background: red;
-  }
-  .border2 {
-    border-width: 10px;
-    padding: 10px;
-    background:blue;
-  }
-  .navbar-collapse {
-      justify-content:right;
-      align-items: flex-end;
-  }
-  .padding{
-      margin-bottom: 13px;
-  }
+  border-width: 10px;
+  padding: 10px;
+  background: red;
+}
+.border2 {
+  border-width: 10px;
+  padding: 10px;
+  background: blue;
+}
+.navbar-collapse {
+  justify-content: right;
+  align-items: flex-end;
+}
+.padding {
+  margin-bottom: 13px;
+}
+.space-around {
+  justify-content: space-between;
+}
