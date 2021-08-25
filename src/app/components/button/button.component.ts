@@ -1,12 +1,16 @@
 import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 
-// example
-//  ----html----
-//  <app-button text="Refresh" color="black" (btnClick)="onRefresh()"></app-button>
-//   ----ts----
-//   onRefresh() {
-//     this.ngOnInit()
-//   }
+/// @name Button
+/// @author Zachy
+/// @description
+/// Just a button to be used throughout.
+/// @example
+///  ----html----
+///  <app-button text="Refresh" color="black" (btnClick)="onRefresh()"></app-button>
+///   ----ts----
+///   onRefresh() {
+///     this.ngOnInit()
+///   }
 
 @Component({
   selector: 'app-button',
