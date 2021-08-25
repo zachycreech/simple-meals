@@ -20,4 +20,8 @@ export class RandomMealComponent implements OnInit {
     })
   }
 
+  onRefresh() {
+    this.ngOnInit()
+  }
+
 }
